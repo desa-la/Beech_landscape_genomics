@@ -5,7 +5,6 @@ Data analysis is divided into folders:
 1. Variant calling and filtering
 2. Population genetics
 3. Genotype-environment association
-4. Long-read data analysis
-5. Genetic load
-6. Genomic offset
+4. Genetic load
+5. Genomic offset
 
