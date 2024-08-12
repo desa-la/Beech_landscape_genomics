@@ -13,7 +13,7 @@ module load baypass/2.4
 
 INP=/home/lazic@ad.vti.bund.de/P1.Genomic.offset/baypass/1.intermediate.files
 # Aux model to get Bayes Factors, using the median omega file
-#Three repetitions to account for stochasticity, final resultt was median of the output 
+#Three repetitions to account for stochasticity, final result was median of the output 
 g_baypass -gfile $INP/baypass.gen.input -efile $INP/baypass.environment.data.txt -auxmodel -omegafile $INP/median_mat_omega.out -outprefix aux_num1 -seed 425631 -nthreads 16
 g_baypass -gfile $INP/baypass.gen.input -efile $INP/baypass.environment.data.txt -auxmodel -omegafile $INP/median_mat_omega.out -outprefix aux_num2 -seed 782 -nthreads 16
 g_baypass -gfile $INP/baypass.gen.input -efile $INP/baypass.environment.data.txt -auxmodel -omegafile $INP/median_mat_omega.out -outprefix aux_num3 -seed 30256 -nthreads 16
