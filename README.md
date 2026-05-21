@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/783555968.svg)](https://zenodo.org/doi/10.5281/zenodo.13305018)
+
 [![DOI]10.1038/s41467-024-52933-y)
 ## Beech_landscape_genomics
 
