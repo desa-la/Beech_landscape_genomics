@@ -1,5 +1,5 @@
 
-[![DOI]10.1038/s41467-024-52933-y)
+
 ## Beech_landscape_genomics
 
 This repository includes scripts from Lazic et al., (2024): Genomic variation of European beech reveals signals of local adaptation despite high levels of phenotypic plasticity.
